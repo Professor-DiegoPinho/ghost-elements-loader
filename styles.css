@@ -80,13 +80,6 @@ a {
   border-radius: 0.75rem;
 }
 
-.card-footer {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin: 0.5rem;
-}
-
 .card:hover {
   border-color: rgba(82, 88, 102, 0.4);
 }
